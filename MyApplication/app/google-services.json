@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "815598333907",
+    "firebase_url": "https://moimmoim-93d87.firebaseio.com",
+    "project_id": "moimmoim-93d87",
+    "storage_bucket": "moimmoim-93d87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815598333907:android:1b2670d433d2e349",
+        "android_client_info": {
+          "package_name": "com.example.youngseok.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815598333907-uuk44osil1prd9dtbbc0lh1uqh8d18oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQF3vBNxefTd582gxOFT5yROWtUqFsqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
