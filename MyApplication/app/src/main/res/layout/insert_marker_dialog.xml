@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/insert_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="저장할 제목을 입력해주세요"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/insert_content"
+            android:layout_width="wrap_content"
+            android:layout_height="276dp"
+            android:ems="10"
+            android:hint="저장할 내용을 입력해주세요"
+            android:inputType="textLongMessage" />
+
+        <Button
+            android:id="@+id/insert_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="확인" />
+    </LinearLayout>
+</LinearLayout>
