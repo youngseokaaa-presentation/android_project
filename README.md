@@ -4,6 +4,7 @@
 [![](http://img.youtube.com/vi/PFyxkuYhpnE/0.jpg)](http://www.youtube.com/watch?v=PFyxkuYhpnE "")
 
 
+http://www.youtube.com/watch?v=PFyxkuYhpnE
 
 [00:00] 문자와 카톡으로 어플 초대메세지 전송하기
 
